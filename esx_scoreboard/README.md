@@ -2,7 +2,7 @@
 
 An ESX scoreboard based off the Stadus_Scoreboard resource.
 
-![Preview image](https://i.imgur.com/z3UXs6K.jpg)
+![Preview image](https://cdn.discordapp.com/attachments/1000113816060825811/1000121902704103454/unknown.png)
 
 ## Features
 
