@@ -1,28 +1,28 @@
 # esx_scoreboard
 
-An ESX scoreboard based off the Stadus_Scoreboard resource.
+Script basado en el recurso Stadus_Scoreboard.
 
 ![Preview image](https://cdn.discordapp.com/attachments/1000113816060825811/1000121902704103454/unknown.png)
 
-## Features
+## Características
 
-- Light on performance
-- See all players ping, which is colored
-- Press F9 to open the scoreboard by default
+- Optimizado
+- Distinguir el ping de los jugadores según los colores
+- Presiona F9 para abrir el menú
 
-## Getting uptime to work
+## Conseguir que el tiempo de actividad funcione
 
-Properly install the [uptime](https://forum.fivem.net/t/release-show-uptime-in-server-list/162956) thing by Hawaii. If you don't want it then you can remove its code.
+Instale correctamente el [uptime](https://forum.fivem.net/t/release-show-uptime-in-server-list/162956)
 
-## Getting players in queue to work
+## Poner a los jugadores en cola para trabajar
 
-There's an event available named `esx_scoreboard:updatePlayersInQueue` that has an argument, which is the numbers of players in queue. Add it where applicable to your queue script, or remove its code.
+Hay un evento llamado `esx_scoreboard:updatePlayersInQueue` que tiene un argumento, que es el número de jugadores en cola. Añádelo donde corresponda a tu script de cola, o elimina su código.
 
 ## Credits
 
 - Stadus, original resource
-- LifeGoal, design
-- Hawaii, re-wrote the resource
+- BGSCRIPTS, propiedad del archivo
+- Aleeex_AG#9239, rediseño del script.
 
 ## License
 
